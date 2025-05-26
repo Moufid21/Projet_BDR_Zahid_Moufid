@@ -1,0 +1,25 @@
+# Projet Base de Données avec Interface Python
+
+## Description
+
+Ce projet a été réalisé dans le cadre du module de base de données.  
+Il contient :
+- Des requêtes en algèbre relationnelle (PDF)
+- Une interface Python (`interface.py`)
+- Des données (dossier `data/`)
+
+##  Fichiers inclus
+
+- `algèbre_relationnelle.pdf` : Requêtes en algèbre relationnelle
+- `interface.py` : Script Python de l’interface
+- `data/` : Fichiers de données utilisés par l’interface
+
+##  Vidéo de démonstration
+ **La vidéo sera ajoutée prochainement.**
+
+##  Livrables
+
+-  PDF des requêtes en algèbre relationnelle
+-  Script Python de l’interface
+-  Données
+-  Vidéo de démonstration
