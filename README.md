@@ -15,7 +15,7 @@ Il contient :
 - `data/` : Fichiers de données utilisés par l’interface
 
 ##  Vidéo de démonstration
- https://www.youtube.com/watch?v=GVEJJQUDVz4
+https://youtu.be/bB6UsnyTk5I?si=gcE87ggJxUjJrlYB
 
 ##  Livrables
 
